@@ -1,0 +1,35 @@
+.login-page {
+    /* background-image: url('../../../assets/dist/img/fondo-login.png'); */
+    background-position: center center;
+    background-size: cover;
+    background-color: rgba(192, 192, 192, 0.486);
+}
+
+.login-card-body,
+.login-box {
+    /* background-image: url('../../../assets/dist/img/fondo-plomo.jpg'); */
+    background-position: center center;
+    background-size: cover;
+    color: rgb(0, 0, 0)
+}
+
+.login-box,
+a {
+    color: rgb(0, 0, 0);
+}
+
+.social-auth-links,
+a {
+    color: black;
+}
+
+.link-pass {
+    color: rgb(0, 0, 0);
+}
+
+.link-reg {
+    color: rgb(0, 0, 0);
+}
+.cursor{
+cursor: pointer;
+}
