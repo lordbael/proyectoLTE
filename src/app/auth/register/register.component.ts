@@ -44,7 +44,7 @@ export class RegisterComponent implements OnInit {
       
     } catch (e:any) {
 
-      Swal.fire('ERROR', 'La cuenta ya esta uso', 'error' );
+      Swal.fire('ERROR', 'Complete bien los campos, recuerde que la contraseña debe tener al menos 6 caracteres', 'error' );
 
       this.registerForm.reset();
        
@@ -53,5 +53,7 @@ export class RegisterComponent implements OnInit {
 
     
   }
+
+  
 
 }
