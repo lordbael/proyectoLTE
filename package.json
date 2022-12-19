@@ -19,7 +19,6 @@
     "@angular/platform-browser": "~13.2.0",
     "@angular/platform-browser-dynamic": "~13.2.0",
     "@angular/router": "~13.2.0",
-    "@swimlane/ngx-charts": "^12.1.0",
     "@types/jquery": "^3.5.14",
     "jquery": "^3.6.0",
     "rxjs": "~7.5.0",

@@ -7,8 +7,6 @@ import { PagesComponent } from './pages.component';
 import { RouterModule } from '@angular/router';
 import { SharedModule } from '../shared/shared.module';
 import { ClientesComponent } from './clientes/clientes.component';
-import { NgxChartsModule } from '@swimlane/ngx-charts';
-
 
 
 @NgModule({
@@ -23,8 +21,6 @@ import { NgxChartsModule } from '@swimlane/ngx-charts';
     CommonModule,
     RouterModule,
     SharedModule,
-    NgxChartsModule
-    
   ],
   exports: [
     DashboardComponent,
