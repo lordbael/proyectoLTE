@@ -21,6 +21,7 @@
     "@angular/router": "~13.2.0",
     "@types/jquery": "^3.5.14",
     "jquery": "^3.6.0",
+    "mqtt": "^4.3.7",
     "rxjs": "~7.5.0",
     "rxjs-observable": "^0.0.7",
     "sweetalert2": "^11.4.8",
